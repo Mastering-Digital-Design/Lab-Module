@@ -104,4 +104,4 @@ The experiment handbook can be found [here](experiment/handbook.pdf). Below are 
 
 ### Verilog Resources
 
-* [Verilog tutorial by ASIC World](https://www.asic-world.com/systemverilog/tutorial.html)
+* [SystemVerilog tutorial by ASIC World](https://www.asic-world.com/systemverilog/tutorial.html)
