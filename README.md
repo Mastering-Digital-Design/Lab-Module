@@ -104,3 +104,4 @@ The experiment handbook can be found [here](experiment/handbook.pdf). Below are 
 ### Verilog Resources
 
 * [Verilog tutorial by ASIC World](http://www.asic-world.com/verilog/veritut.html)
+# Lab-Module
