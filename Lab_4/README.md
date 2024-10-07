@@ -1,7 +1,5 @@
 ### Contents of the Lab_4 folder
 
-* Lecture 4 [slides](./Lecture_4_slides.pdf) (PDF file)
-* Lecture 4 [notes](./Lecture_4_notes.pdf) (PDF file)
 * [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%204.pdf) for Lab 4 (PDF file)
 * MCP3002.pdf - [Datasheet](./MCP3002.pdf) for the 10-bit ADC
 * [ex16_proto.zip](./ex16_proto.zip) - zipped file containing modules needed for experiment 16
