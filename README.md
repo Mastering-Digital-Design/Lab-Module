@@ -4,18 +4,17 @@ This is the github repo for the MSc ADIC lab on "Mastering Digital Design".
 
 * Lab leaders: [Professor Peter Cheung](https://www.imperial.ac.uk/people/p.cheung) & [Dr Aaron Zhao](https://profiles.imperial.ac.uk/a.zhao).
 * Course originally developed in 2017 using Verilog, but updated in 2024 using SystemVerilog.
-* Teaching assistants 2022: [Mr Jianyi Cheng](https://jianyicheng.github.io/) and [Mr Benjamin Biggs](https://www.linkedin.com/in/ben-biggs/).
 
 Please send feedback on any of this material (e.g. errors, typos, or other suggestions for improvement) to Peter Cheung via email. 
 
-## Aims
+### Aims
 
 1. To ensure all students on the MSc course reach a common competence level in RTL design using FPGAs in a hardware description language; and
 2. To act as revision exercise for those who are already competent in SystemVerilog and FPGA.
 
 You will conduct this experiment in the first half of the Autumn Term. You can find a copy of the Experiment Specification Document [here](experiment/specification.pdf).
 
-## Learning Outcomes
+### Learning Outcomes
 
 This Lab Experiment has FOUR distinct parts, each with specific learning outcomes.
 
@@ -27,28 +26,37 @@ This Lab Experiment has FOUR distinct parts, each with specific learning outcome
 
 **Part 4:** Understand how to implement a FIFO using counters as pointer registers and Block RAM as storage; implement a relatively complex digital circuit using different building blocks including: counters, finite state machines, registers, encoder/decoder, address computation unit, memory blocks, digital delay elements, synchronisers etc.; learn how to debug moderately complex digital circuits.
 
-## Assessment
+### Assessment
 
 There will be an oral interview at the end of the Autumn term. The [marks](experiment/marksheet.pdf) for this experiment will count towards the Coursework component of the MSc course.
 
-## Experiment
+### Experiment
 
 The experiment handbook can be found [here](experiment/handbook.pdf). Below are some useful resources for each part of the experiment.
 
-### Part 1: Schematic vs. Verilog
+### Week 1: Introduction to Mastering Digital Design
 
-* [Ex1 solution](design_files/ex1sol.sof.zip)
-* [Incomplete version of 7-segment decoder](design_files/My7seg_incomplete.bdf.zip)
-* [Pin assignment](design_files/pin_assignment.txt)
-* [SV code for bin2bcd modules](design_files/bin2bcd_corrected.zip)
-* [Ex4 solution](design_files/ex4sol.sof.zip)
+* Lecture 1 [slides](Lab_1/Lecture_1_slides.pdf) [notes](Lab_1/Lecture_1_notes.pdf)
+* [Lab 1 Instructions](Lab_1/Mastering%20Digital%20Design%20-%20Lab%201.pdf)
+  
+    #### Lab 1 Resources
+  * [Ex1 solution](design_files/ex1sol.sof.zip)
+  * [Incomplete version of 7-segment decoder](design_files/My7seg_incomplete.bdf.zip)
+  * [Pin assignment](design_files/pin_assignment.txt)
+  * [SV code for bin2bcd modules](design_files/bin2bcd_corrected.zip)
+  * [Ex4 solution](design_files/ex4sol.sof.zip)
 
-### Part 2: Counters and FSMs
+### Week 2: Counters and FSMs
 
-* [Instructions for setting up ModelSim](reference_material/Modelsim_setup.pdf)
-* [Ex8 solution](design_files/ex8sol.sof.zip)
-* [SV code for bin2bcd modules](design_files/bin2bcd_corrected.zip)
-* [Code for pwm](design_files/pwm.v.zip)
+* Lecture 2 [slides](Lab_2/Lecture_2_slides.pdf) [notes](Lab_2/Lecture_2_notes.pdf)
+* [Lab 2 Instructions](Lab_2/Mastering%20Digital%20Design%20-%20Lab%202.pdf)
+
+    #### Lab 2 Resources
+
+  * [Instructions for setting up ModelSim](reference_material/Modelsim_setup.pdf)
+  * [Ex8 solution](design_files/ex8sol.sof.zip)
+  * [SV code for bin2bcd modules](design_files/bin2bcd_corrected.zip)
+  * [Code for pwm](design_files/pwm.v.zip)
 
 ### Part 3: DAC and Tone Generator
 
