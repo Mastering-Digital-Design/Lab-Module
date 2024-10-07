@@ -1,6 +1,6 @@
 //------------------------------
 // Module name: spi2adc
-// Function: SPI interface for MCP3021 ADC
+// Function: SPI interface for MCP3001 ADC
 // Creator:  Peter Cheung
 // Version:  2.0
 // Date:     26 Nov 2022
