@@ -1,7 +1,5 @@
 ### Contents of the Lab_1 folder
 
-* Lecture 1 [slides](./Lecture_1_slides.pdf) (PDF file)
-* Lecture 1 [notes](./Lecture_1_notes.pdf) (PDF file)
 * [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%201.pdf) for Lab 1 (PDF file)
 * [My7seg_incomplete.bdf.zip](My7seg_incomplete.bdf.zip) (ZIP file) - used in Exercise 1
 * [bin2bcd_16.sv](./bin2bcd_16.sv) - 16-bit binary to BCD conversion (SV code)
