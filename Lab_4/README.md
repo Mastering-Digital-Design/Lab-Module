@@ -5,6 +5,7 @@
 * [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%203.pdf) for Lab 3 (PDF file)
 * [Schematic diagram](./DE1-SOC%20Addon%20Card.pdf) of add-on card
 * MCP49x1.pdf - [Datasheet](./MCP49x1.pdf) for the 10-bit DAC
+* MCP3002.pdf - [Datasheet](./MCP3002.pdf) for the 10-bit ADC
 * MCP604.pdf - [Datasheet](./MCP604.pdf) for MCP604 quad op-amp
 * [spi2dac.sv](./spi2dac.sv) - SPI interface to DAC
 * [spi2adc.sv](./spi2adc.sv) - SPI interface to ADC
