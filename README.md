@@ -1,6 +1,6 @@
 ### Mastering Digital Design with SystemVerilog using FPGA
 
-This is the github repository for the MSc ADIC lab on "Mastering Digital Design with SystemVerilog using FPGA".
+This is the github repository for the MSc ADIC lab module on "Mastering Digital Design with SystemVerilog using FPGA" delivered to MSc students in the Department of EEE at Imperial College London.
 
 * Lab leaders: [Professor Peter Cheung](https://www.imperial.ac.uk/people/p.cheung) & [Dr Aaron Zhao](https://profiles.imperial.ac.uk/a.zhao).
 * Course originally introduced by Prof Cheung in 2017 using Verilog, but updated in 2024 using SystemVerilog.
