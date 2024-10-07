@@ -1,7 +1,5 @@
 ### Contents of the Lab_3 folder
 
-* Lecture 3 [slides](./Lecture_3_slides.pdf) (PDF file)
-* Lecture 3 [notes](./Lecture_3_notes.pdf) (PDF file)
 * [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%203.pdf) for Lab 3 (PDF file)
 * [Schematic diagram](./DE1-SOC%20Addon%20Card.pdf) of add-on card
 * MCP49x1.pdf - [Datasheet](./MCP49x1.pdf) for the 10-bit DAC
