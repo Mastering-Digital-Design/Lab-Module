@@ -26,6 +26,13 @@ This Lab Experiment has FOUR distinct parts, each with specific learning outcome
 
 **Part 4:** Understand how to implement a FIFO using counters as pointer registers and Block RAM as storage; implement a relatively complex digital circuit using different building blocks including: counters, finite state machines, registers, encoder/decoder, address computation unit, memory blocks, digital delay elements, synchronisers etc.; learn how to debug moderately complex digital circuits.
 
+#### Lecture Notes
+
+* Week 1: [slides](./lectures/Lecture_1_slides.pdf), [notes](./lectures/Lecture_1_notes.pdf)
+* Week 2: [slides](./lectures/Lecture_2_slides.pdf), [notes](./lectures/Lecture_2_notes.pdf)
+* Week 3: [slides](./lectures/Lecture_3_slides.pdf), [notes](./lectures/Lecture_3_notes.pdf)
+* Week 4: [slides](./lectures/Lecture_4_slides.pdf), [notes](./lectures/Lecture_4_notes.pdf)
+
 #### Assessment
 
 You are expected to keep a good logbook of your lab work. There will be an oral interview at the end of the Autumn term when you will be asked to show your logbook to your assessor, who will ask questions directly from it. The [marks](experiment/marksheet.pdf) for this experiment will count towards the Coursework component of the MSc course.  Details will be published later.
