@@ -12,7 +12,8 @@
 * [hexto7seg.sv](./hexto7seg.sv) - Hex to 7 segment decoder SV code
 * [pwm.sv](./pwm.sv) - Pulse-width modulator SV code
 * [bin2bcd_16.sv](./bin2bcd_16.sv) - 16-bit binary to BCD conversion (SV code)
-* [rom_data.mif](./rom_data.mif) - ROM data file
+* [rom_data.mif](./rom_data.mif) - ROM data file of one cycle of sinewave
+* Script to generate sinewave in [Matlab](./sinegen.m) or [Python](./sinegen.py)
 * [ex11sol.sof.zip](./ex11sol.sof.zip) - bitstream solution for ex11
 * [ex14sol.sof.zip](./ex14sol.sof.zip) - bitstream solution for ex14
 * [ex15sol.sof.zip](./ex15sol.sof.zip) - bitstream solution for ex15
