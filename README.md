@@ -37,7 +37,7 @@ Each week's lab is supported by a 2-hour lecture session.
 
 #### Assessment
 
-You are expected to keep a good logbook of your lab work. There will be an oral interview at the end of the Autumn term when you will be asked to show your logbook to your assessor, who will ask questions directly from it. The [marks](experiment/marksheet.pdf) for this experiment will count towards the Coursework component of the MSc course.  Details will be published later.
+You are expected to keep a good logbook of your lab work. There will be an oral interview at the end of the Autumn term when you will be asked to show your logbook to your assessor, who will ask questions directly from it. The marks for this experiment will count towards the Coursework component of the MSc course.  Details will be published later.
 
 #### Experiments
 
