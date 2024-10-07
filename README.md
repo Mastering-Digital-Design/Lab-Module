@@ -12,11 +12,11 @@ Please send feedback on any of this material (e.g. errors, typos, or other sugge
 1. To ensure all students on the MSc course reach a common competence level in RTL design using FPGAs in a hardware description language; and
 2. To act as revision exercise for those who are already competent in SystemVerilog and FPGA.
 
-You will conduct this experiment in the first half of the Autumn Term. You can find a copy of the Experiment Specification Document [here](experiment/specification.pdf).
+You will conduct this experiment in the first half of the Autumn Term. 
 
 #### Learning Outcomes
 
-This Lab Experiment has FOUR distinct parts, each with specific learning outcomes.
+This Lab Experiments are divided into FOUR distinct parts, each with specific learning outcomes.
 
 **Part 1:** Basic competence in using Intel/Altera’s Quartus design systems for Cyclone-V FPGA; appreciate the superiority of hardware description language over schematic capture for digital design; use of case statement to specify combinatorial circuit; use higher level constructs in Verilog to specify complex combinatorial circuits; develop competence in taking a design from description to hardware.
 
@@ -27,6 +27,8 @@ This Lab Experiment has FOUR distinct parts, each with specific learning outcome
 **Part 4:** Understand how to implement a FIFO using counters as pointer registers and Block RAM as storage; implement a relatively complex digital circuit using different building blocks including: counters, finite state machines, registers, encoder/decoder, address computation unit, memory blocks, digital delay elements, synchronisers etc.; learn how to debug moderately complex digital circuits.
 
 #### Lecture Notes
+
+Each week's lab is supported by a 2-hour lecture session.
 
 * Week 1: [slides](./lectures/Lecture_1_slides.pdf), [notes](./lectures/Lecture_1_notes.pdf)
 * Week 2: [slides](./lectures/Lecture_2_slides.pdf), [notes](./lectures/Lecture_2_notes.pdf)
