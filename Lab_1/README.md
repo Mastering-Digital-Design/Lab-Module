@@ -7,5 +7,6 @@
 * [bin2bcd_16.sv](./bin2bcd_16.sv) - 16-bit binary to BCD conversion (SV code)
 * [ex1sol.sof.zip](./ex1sol.sof.zip) - bitstream solution for ex1
 * [ex4sol.sof.zip](./ex4sol.sof.zip) - bitstream solution for ex4
+* [pin_assignment.txt](./pin_assignment.txt) - this specifies which pin on the FPGA is connected to the external components on the DE1-SoC board. This is be added into the .qsf file.
 
 Note: .sof files are binary bitstream files that can be programmed onto the FPGA to verify that the hardware is working. All binary files are zipped for download - they cannot be viewed in Git.  Uncompress before use.
