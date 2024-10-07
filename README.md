@@ -48,7 +48,7 @@ You are expected to keep a good logbook of your lab work. There will be an oral 
 * [Week 3](./Lab_3): Analogue I/O and SPI interface
 * [week 4](./Lab_4): Real-time audio signal processing
 
-#### Quartus Prime Lite
+#### Quartus Prime Lite Software Download
 
 * [Quartus Prime Lite Web Edition](https://www.intel.com/content/www/us/en/software-kit/660907/intel-quartus-prime-lite-edition-design-software-version-20-1-1-for-windows.html)
 
