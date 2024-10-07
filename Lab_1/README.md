@@ -1,4 +1,4 @@
-### Contents in Lab 1 folder
+### Contents of the Lab_1 folder
 
 * Lecture 1 [slides](./Lecture_1_slides.pdf) (PDF file)
 * Lecture 1 [notes](./Lecture_1_notes.pdf) (PDF file)
