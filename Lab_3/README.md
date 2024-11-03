@@ -1,11 +1,14 @@
 ### Contents of the Lab_3 folder
 
-* [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%203.pdf) for Lab 3 (PDF file)
+**Updated on 3 Nov 2024**: Please update your Lab contents if you had downloaded Lab 3 before this date.
+
+* [Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%203.md) for Lab 3
+* [(Deprecated) Experiment instruction](./Experiment%20Sheet%20-%20Mastering%20Digital%20Design%20Part%203.pdf) for Lab 3 (PDF file)
 * [Schematic diagram](./DE1-SOC%20Addon%20Card.pdf) of add-on card
 * MCP49x1.pdf - [Datasheet](./MCP49x1.pdf) for the 10-bit DAC
 * MCP604.pdf - [Datasheet](./MCP604.pdf) for MCP604 quad op-amp
 * [spi2dac.sv](./spi2dac.sv) - SPI interface to DAC
-* [spi2adc.sv](./spi2adc.sv) - SPI interface to ADC
+* [(Deprecated) spi2adc.v](./spi2adc.v) - Old SPI interface to ADC without reset
 * [clktick.sv](./clktick.sv) - Clock tick module SV code
 * [hexto7seg.sv](./hexto7seg.sv) - Hex to 7 segment decoder SV code
 * [pwm.sv](./pwm.sv) - Pulse-width modulator SV code
