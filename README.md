@@ -31,11 +31,10 @@ This Lab Experiments are divided into FOUR distinct parts, each with specific le
 
 Each week's lab is supported by a 2-hour lecture session.
 
-* Week 1: [slides](./lectures/Lecture_1_slides.pdf), [notes](./lectures/Lecture_1_notes.pdf)
-* Week 2: [slides](./lectures/Lecture_2_slides.pdf), [notes](./lectures/Lecture_2_notes.pdf)
-* Week 3: [slides](./lectures/Lecture_3_slides.pdf), [notes](./lectures/Lecture_3_notes.pdf)
-* Week 4: [slides](./lectures/Lecture_4_slides.pdf), [notes](./lectures/Lecture_4_notes.pdf)
-
+* Week 1: [slides](./lectures/lecture1.pdf)
+* Week 2: [slides](./lectures/lecture2.pdf)
+* Week 3: [slides](./lectures/lecture3.pdf)
+* Week 4: [slides](./lectures/lecture4.pdf)
 #### Assessment
 
 You are expected to keep a good logbook of your lab work. There will be an oral interview at the end of the Autumn term when you will be asked to show your logbook to your assessor, who will ask questions directly from it. The marks for this experiment will count towards the Coursework component of the MSc course.  Details will be published later.
