@@ -33,7 +33,7 @@ module bin2bcd_16(
                 if (result[23:20] >= 5)
                     result[23:20] = result[23:20] + 4'd3;
 
-                    // CHeck if hundred digit >= 5
+                    // Check if hundred digit >= 5
                 if (result[27:24] >= 5)
                     result[27:24] = result[27:24] + 4'd3;
 
@@ -47,10 +47,10 @@ module bin2bcd_16(
 
             // Decode output from result
             BCD0 = result[19:16];
-                BCD1 = result[23:20];
-                BCD2 = result[27:24];
-                BCD3 = result[31:28];
-                BCD4 = result[35:32];
+            BCD1 = result[23:20];
+            BCD2 = result[27:24];
+            BCD3 = result[31:28];
+            BCD4 = result[35:32];
         end
 
 endmodule
