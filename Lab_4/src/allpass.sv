@@ -16,8 +16,8 @@ module processor (
 	logic [9:0]			x,y;
 	logic				enable;
 
-	parameter 		ADC_OFFSET = 10'd512;
-	parameter 		DAC_OFFSET = 10'd512;
+	parameter 		ADC_OFFSET = 10'h181;
+	parameter 		DAC_OFFSET = 10'h200;
 
 	assign x = data_in[9:0] - ADC_OFFSET;		// x is input in 2's complement
 	

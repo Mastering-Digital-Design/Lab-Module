@@ -27,7 +27,7 @@ module pwm # (parameter WIDTH = 10)(
 		else
 			count <= count + 1'b1;
             
-		if (count >= d)
+		if (count > d)
 			pwm_out <= 1'b0;
 		else	
 			pwm_out <= 1'b1;
